@@ -1,6 +1,6 @@
 # Sample Spring Boot Application
 ## Overview
-This project is a small Spring Boot example project for Visual Studio Code by demonstration.
+This project is a small Spring Boot example project for demonstration by Visual Studio Code.
 
 ## Features
 This project included below contents;
